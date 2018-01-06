@@ -1,5 +1,4 @@
-# codeforces-Div2-A
-Div2-A C# answer
+
 Hello every one
-in this folder I will put my answer for codeforces Div2-A only 
+in this folder I will put my answer for codeforces Div2-A only with C#
 I hope you find some answer useful for you 
